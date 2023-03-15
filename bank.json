@@ -1,0 +1,89 @@
+[
+  {
+    "registreringsnr": "4242",
+    "kontonr": "5270 573 351",
+    "ejer": "Ejvind Møller",
+    "transaktioner": [
+      {
+        "tekst": "Opsparing",
+        "saldo": 100.0,
+        "amount": 100.0,
+        "dato": "2019-12-30T12:55:09.1736887+01:00"
+      },
+      {
+        "tekst": "Vandt i klasselotteriet",
+        "saldo": 1100.0,
+        "amount": 1000.0,
+        "dato": "2019-12-30T12:55:09.1772495+01:00"
+      },
+      {
+        "tekst": "Hævet til Petuniaer",
+        "saldo": 1050.0,
+        "amount": -50.0,
+        "dato": "2019-12-30T12:55:09.1772531+01:00"
+      },
+      {
+        "tekst": "Tabt på gaden",
+        "saldo": 750.0,
+        "amount": -300.0,
+        "dato": "2020-01-07T08:44:52.8228166+01:00"
+      },
+      {
+        "tekst": "Til kaffe",
+        "saldo": 750.0,
+        "amount": 0.0,
+        "dato": "2020-01-14T21:56:57.2628268+01:00"
+      }
+    ]
+  },
+  {
+    "registreringsnr": "4242",
+    "kontonr": "1124 543 805",
+    "ejer": "Anne Dam",
+    "transaktioner": [
+      {
+        "tekst": "Tjent",
+        "saldo": 1600.0,
+        "amount": 1600.0,
+        "dato": "2019-12-30T14:36:10.0677183+01:00"
+      },
+      {
+        "tekst": "brugt på tøj",
+        "saldo": 2760.0,
+        "amount": 1160.0,
+        "dato": "2019-12-30T14:36:19.5461486+01:00"
+      },
+      {
+        "tekst": "fejl",
+        "saldo": 1600.0,
+        "amount": -1160.0,
+        "dato": "2019-12-30T14:36:31.6268762+01:00"
+      },
+      {
+        "tekst": "brugt på tøj",
+        "saldo": 440.0,
+        "amount": -1160.0,
+        "dato": "2019-12-30T14:36:52.9945678+01:00"
+      }
+    ]
+  },
+  {
+    "registreringsnr": "4242",
+    "kontonr": "2128 351 120",
+    "ejer": "Steen Secher",
+    "transaktioner": []
+  },
+  {
+    "registreringsnr": "4242",
+    "kontonr": "7660 753 278",
+    "ejer": "Børge",
+    "transaktioner": [
+      {
+        "tekst": "Køb af kattekilling",
+        "saldo": 1000.0,
+        "amount": 1000.0,
+        "dato": "2020-01-06T10:42:23.8914002+01:00"
+      }
+    ]
+  }
+]
